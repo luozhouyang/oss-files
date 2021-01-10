@@ -21,11 +21,11 @@ Common datasets and models that can be publicly downloaded on OSS.
 
 支付宝：
 
-![Buy Me a Coffee](https://lzy-oss-files.oss-cn-hangzhou.aliyuncs.com/personal/buy-me-a-coffee-alipay.jpeg)
+![Buy Me a Coffee](https://lzy-oss-files.oss-cn-hangzhou.aliyuncs.com/personal/buy-me-a-coffee-alipay.jpeg?x-oss-process=image/resize,w_200)
 
 微信：
 
-![Buy Me a Coffee](https://lzy-oss-files.oss-cn-hangzhou.aliyuncs.com/personal/buy-me-a-coffee-wechat.jpeg)
+![Buy Me a Coffee](https://lzy-oss-files.oss-cn-hangzhou.aliyuncs.com/personal/buy-me-a-coffee-wechat.jpeg?x-oss-process=image/resize,w_200)
 
 
 目前可以下载的数据如下文所示。
